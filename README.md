@@ -22,7 +22,7 @@ The goal is to create a secure application to see your bank accounts.
 ### Requirements
 - This application must be available offline.
 - A refresh button allows the user to update its accounts.
-- Only the phone's user can start the app
+- Access to the application is restricted 
 - Exchanges with API must be secure ( with TLS)
 
 
