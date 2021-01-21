@@ -10,7 +10,7 @@ In this repository you will find everything you need to do the workshop.
   - Your source code in a **src** folder
   - <your_application>.apk
   - README.md
-- You send your repository link **before 11pm59 on the 1th february 2021**. After this timeline, you will loose 1pts per hour.
+- You send your repository link **before 11pm59 on the 4th february 2021**. After this timeline, you will loose 1pts per hour.
 
 ## Exercice
 
