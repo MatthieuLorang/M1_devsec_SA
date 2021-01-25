@@ -9,3 +9,8 @@ https://medium.com/kayvan-kaseb/static-code-analysis-in-android-10c3ef83a29a
 https://www.androidauthority.com/how-to-add-fingerprint-authentication-to-your-android-app-747304/  
 https://developer.android.com/studio/build/shrink-code  
 https://medium.com/@christopherney/protect-android-app-against-reverse-engineering-with-enigma-string-obfuscation-plugin-11687022cbef
+
+
+## Pentesting an app
+
+https://securityboulevard.com/2020/09/how-to-configure-android-virtual-for-mobile-pentest/  
