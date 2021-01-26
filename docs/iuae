@@ -8,3 +8,5 @@ configure it to use
 not running in vm
 
 
+sudo apt-get install virtualbox-guest-x11
+
