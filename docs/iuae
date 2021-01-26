@@ -1,0 +1,10 @@
+install virtualbox
+
+mobexler
+import mobexler in virtualbox
+
+on your host : install genymotion
+configure it to use 
+not running in vm
+
+
