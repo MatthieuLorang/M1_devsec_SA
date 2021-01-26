@@ -14,19 +14,21 @@ In this repository you will find everything you need to do the workshop.
 
 ## Exercice
 
+### Part 1
+
 Using Android Studio (or any editor of your choice), you will have to create a mobile application.  
 You can choose the language you want between Kotlin and Java.  
   
 The goal is to create a secure application to see your bank accounts.   
 
-### Requirements
+#### Requirements
 - This application must be available offline.
 - A refresh button allows the user to update its accounts.
 - Access to the application is restricted 
 - Exchanges with API must be secure ( with TLS)
 
 
-### API
+#### API
 https://6007f1a4309f8b0017ee5022.mockapi.io/api/m1/:endpoint
 
 
@@ -56,14 +58,18 @@ You can read and create new accounts. You cannot modify, nor delete.
 ```
 
 
-### README.md content
+### Part 2
+
+
+
+## README.md content
 
 - Explain how you ensure user is the right one starting the app
 - How do you securely save user's data on your phone ?
 - How did you hide the API url ?
 - Screenshots of your application 
 
-### Report scoring
+## Report scoring
 
 - Your README file contains answers to the asked questions (2pts)
 
